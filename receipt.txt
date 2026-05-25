@@ -1,0 +1,7 @@
+SmartBank AI Receipt
+
+Transaction ID : TXN29831
+Paid via : UPI
+Amount : ₹5,200
+Date : 15 Sept 2026
+Status : Successful
